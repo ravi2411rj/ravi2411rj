@@ -12,7 +12,7 @@
 - 👯 Love mentoring junior developers and contributing to engineering excellence.
 - 📫 Reach me at **ravi2411rj@gmail.com**
 - 🏆 Awards: *‘Genius’* at Dassault Systèmes | *Top Talent 2022* at Persistent Systems
-- 💡 Fun Fact: I’ve solved over 350+ DSA problems and hold a 5⭐ on HackerRank!
+- 💪 I’ve solved over 350+ DSA problems on coding platforms (LeetCode and GeeksforGeeks) and hold a 5⭐ on HackerRank for problem solving!
 
 ---
 
