@@ -10,8 +10,7 @@
 - 💬 Strong grip over **Java**, **Spring Boot**, **REST APIs**, and **JPA/Hibernate**.
 - 🛠 Known for reducing **API latency**, improving **performance**, and writing **clean, testable code**.
 - 👯 Love mentoring junior developers and contributing to engineering excellence.
-- 📫 Reach me at **ravi2411rj@gmail.com**
-- 🏆 Awards: *‘Genius’* at Dassault Systèmes | *Top Talent 2022* at Persistent Systems
+- 🏆 Awards: *‘Genius’* at Dassault Systèmes | *‘Top Talent 2022’* at Persistent Systems
 - 💪 I’ve solved over 350+ DSA problems on coding platforms (LeetCode and GeeksforGeeks) and hold a 5⭐ on HackerRank for problem solving!
 
 ---
@@ -36,10 +35,19 @@
 
 ---
 
+## 💻 Coding Profiles:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ravi2411rj/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ravi2411rj/) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ravi2411rj) 
+
+---
+
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-ranjan-shah/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your_leetcode_username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi2411rj/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravi2411rj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravi2411rj/) 
 
 ---
 
